@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Andreas Kapp"
+name = "Andreas Christopher Kapp"
 
 # Is this the primary user of the site?
 superuser = true
